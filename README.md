@@ -1,3 +1,3 @@
 # awslambda
 
-Training repository
+Training repository for AWS Lambda
